@@ -12,6 +12,10 @@
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=D4veCode&count_private=true&show_icons=true&theme=prussian&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+## I love to work with many languages, but the most I like are: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4veCode)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **D4veCode/D4veCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
