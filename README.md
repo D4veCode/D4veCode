@@ -6,11 +6,10 @@
 
 ## These are my Stats! 
 
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=D4veCode&count_private=true&show_icons=true&theme=prussian&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=D4veCode&count_private=true&show_icons=true&theme=prussian&hide=prs,issues,contribs)]
 ## I love to work with many languages, but the most I like are: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4veCode&hide=CSS&&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4veCode&hide=CSS&&layout=compact&theme=prussian)]
 
 ## And... You can check this repos out if you please! 
 
