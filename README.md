@@ -1,8 +1,8 @@
 # Hi there I'm David!👋
 
-- 📫 How to reach me: 
-      You can email me at [here!](mailto:davidasb.developer@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/david-serrada-dev/)
-      Also, check my [website!](https://davidserrada.netlify.app)
+📫 How to reach me: 
+      You can email me at [here](mailto:davidasb.developer@gmail.com)! Or visit my [LinkedIn](https://www.linkedin.com/in/david-serrada-dev/).
+      Also, check my [website](https://davidserrada.netlify.app)!
 
 ## These are my Stats! 
 
