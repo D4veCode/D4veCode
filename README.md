@@ -11,14 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4veCode&hide=CSS&&layout=compact&theme=prussian)]
 
-## And... You can check this repos out if you want! 
-
-[![SislogUCAB](https://github-readme-stats.vercel.app/api/pin/?username=D4veCode&repo=SislogUCAB&show_owner=true)](https://github.com/D4veCode/SislogUCAB)
-[![SwAPISite](https://github-readme-stats.vercel.app/api/pin/?username=D4veCode&repo=SislogUCAB&show_owner=true)](https://github.com/D4veCode/SwAPISite)
-[![FriendTrip](https://github-readme-stats.vercel.app/api/pin/?username=D4veCode&repo=SislogUCAB&show_owner=true)](https://github.com/D4veCode/FriendTrip)
-
-
-
 
 <!--
 **D4veCode/D4veCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
